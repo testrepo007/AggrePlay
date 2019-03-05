@@ -1,6 +1,6 @@
 # AggrePlay
 AggrePlay is a pintool created using Intel PIN version 3.0-76991.
-Extract the AggreRec folder into the pin/source/tools under Pin
+Extract the AggreRec folder into the pin/source/tools folder under the Pin directory.
 
 to compile AggrePlay type:
 
