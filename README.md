@@ -9,3 +9,8 @@ to compile AggrePlay type:
 to run AggrePlay:
 
     Path_to_pin/pin -t Path_to_Pintool/AggreRec.so -o5 output_directory -- Path_to_benchmark
+    
+    
+    
+Sample data from link below:
+https://drive.google.com/open?id=1bBgjuxkHySs6ouV8DoMmskLlHp164V4B
